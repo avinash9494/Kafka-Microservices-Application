@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addresses>
+	<Address>
+		<address-id>01</address-id>
+		<line-1>56 Lyle Pl</line-1>
+		<line-2>Iselin ,NJ </line-2>
+		<zip-code>09987</zip-code>
+	</Address>
+	<Address>
+		<address-id>02</address-id>
+		<line-1>306 Green Street Way</line-1>
+		<line-2>Piscataway ,NJ </line-2>
+		<zip-code>09886</zip-code>
+	</Address>
+</Addresses>
